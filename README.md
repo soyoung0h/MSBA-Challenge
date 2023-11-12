@@ -3,4 +3,4 @@ MSBA Challenge is an annual on-campus competition for UW-Madison MSBA students. 
 
 **Overview of the Task**
 
-Wisneyland is facing a steady decrease in the number of visitors and sales recently. My task was to clean data from their past sale records to find out the reason behind why, and identify the 'low hanging fruit' with an easy solution. Detail procedure and results can be found in files attached.
+Wisneyland is facing a steady decrease in the number of visitors and sales recently. My task was to clean data from their past sales records to find out the reason behind why, and identify the 'low hanging fruit' with an easy solution to fix the problem. Detail procedure and results can be found in files uploaded.
