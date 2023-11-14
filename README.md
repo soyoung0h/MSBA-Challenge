@@ -1,5 +1,5 @@
 # MSBA-Challenge
-MSBA Challenge is an annual on-campus competition for UW-Madison MSBA students. This year, students were assigned to analyze and present their data findings for fictitious theme park, Wisneyland. I used Python to clean data from past sale records and construct machine learning model based on regressions and gradient boosting. 
+MSBA Challenge is an annual on-campus competition for UW-Madison MSBA students. This year, students were assigned to analyze and present their data findings for fictitious theme park, Wisneyland. I used Python to clean data from past sale records and constructed machine learning model based on regressions and gradient boosting. 
 
 **Overview of the Task**
 
